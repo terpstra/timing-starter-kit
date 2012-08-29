@@ -1,0 +1,6 @@
+[submodule "wrpc-sw"]
+	path = wrpc-sw
+	url = git://ohwr.org/hdl-core-lib/wr-cores/wrpc-sw.git
+[submodule "wr-cores"]
+	path = wr-cores
+	url = git://ohwr.org/hdl-core-lib/wr-cores.git
