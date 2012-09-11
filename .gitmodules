@@ -4,6 +4,6 @@
 [submodule "wr-cores"]
 	path = wr-cores
 	url = git://ohwr.org/hdl-core-lib/wr-cores.git
-[submodule "pcie-wb"]
-	path = pcie-wb
-	url = git://github.com/terpstra/pcie-wb.git
+[submodule "fpga-config-space"]
+	path = fpga-config-space
+	url = git://ohwr.org/hdl-core-lib/fpga-config-space.git
